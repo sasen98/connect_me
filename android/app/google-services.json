@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464847787225",
+    "project_id": "connect-me-3d694",
+    "storage_bucket": "connect-me-3d694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464847787225:android:8478077ad75173f453dac8",
+        "android_client_info": {
+          "package_name": "com.example.connect_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4efe8GoGUVn20AjRZgHP_9uZm0OnEUC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
